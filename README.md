@@ -1,4 +1,4 @@
-# JS Tempomat
+# JS Cruise Control
 
 A lightweight FiveM vehicle speed limiter / cruise-control style script for GTA V servers. It lets players set a maximum speed for their vehicle, enable or disable the limiter, and adjust the limit while driving.
 
